@@ -9,3 +9,5 @@ P
  contracts/material-tracking.clar,3/1/31ed6a8a5e7034d72166a21b1d93e9f60406a106
 R
 "contracts/preocess-parameters.clar,f/a/face74345a9780816c8fd203212ce526518d464a
+S
+#contracts/quality-verification.clar,0/f/0f33966a4a4d7d8e923cbc03bfda79d5ba391cc4
